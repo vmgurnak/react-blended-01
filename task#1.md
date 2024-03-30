@@ -55,7 +55,6 @@
 
 > Для форматування дати використовуйте метод
 > [formatDistanceToNow](https://date-fns.org/v2.28.0/docs/formatDistanceToNow)
-> бібліотеки **date-fns**
 
 ## Приклад використання
 
