@@ -4,6 +4,7 @@ import { GiTreeDoor } from 'react-icons/gi';
 import { StatisticsItem } from '../StatisticsItem/StatisticsItem';
 import style from './Statistics.module.css';
 
+// Array from Icons
 const icons = [
   <FaRegThumbsUp />,
   <MdPeople />,
